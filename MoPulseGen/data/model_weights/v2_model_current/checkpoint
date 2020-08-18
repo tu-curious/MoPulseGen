@@ -1,0 +1,2 @@
+model_checkpoint_path: "W_ppg_green_ppg_stitchGAN"
+all_model_checkpoint_paths: "W_ppg_green_ppg_stitchGAN"

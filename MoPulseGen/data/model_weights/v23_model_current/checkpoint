@@ -1,0 +1,2 @@
+model_checkpoint_path: "W_ecg_ecg_stitchGAN"
+all_model_checkpoint_paths: "W_ecg_ecg_stitchGAN"
